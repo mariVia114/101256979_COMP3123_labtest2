@@ -1,6 +1,5 @@
 # Weather Forecast Web APP screenshots
 ![weatherWeb 1](https://user-images.githubusercontent.com/95831849/203694602-04199591-1f3a-4ab2-afbd-3df2e79f7b6a.jpg)
-# Getting Started with Create React App
 ![weatherWeb](https://user-images.githubusercontent.com/95831849/203694693-7b66714c-b665-437a-94e6-d2cd201f73f6.jpg)
 
 # Postman Output
@@ -8,7 +7,7 @@
 
 # COMP 3123 - Full Stack Labtest 2
 Objective: Create a weather forecast with own UI/UX design.
-
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
